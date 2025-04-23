@@ -3,6 +3,6 @@ pandas==2.2.1
 numpy==1.26.4
 xarray==2024.2.0
 plotly==5.19.0
-tensorflow==2.19.0
-tensorflow-probability==0.23.0
-meridian==0.1.0 
+tensorflow==2.16.1
+tensorflow-probability==0.24.0
+meridian==0.1.0
