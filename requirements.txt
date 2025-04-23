@@ -1,8 +1,8 @@
 streamlit==1.32.0
 pandas==2.2.1
-numpy==1.26.4
+numpy>=1.26.0,<2.0.0
 xarray==2024.2.0
 plotly==5.19.0
 tensorflow==2.16.1
 tensorflow-probability[tf]==0.24.0
-google-meridian==0.1.0
+google-meridian==1.0.0
