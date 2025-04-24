@@ -1,0 +1,22 @@
+[server]
+enableCORS = false
+
+[browser]
+serverAddress = "localhost"
+serverPort = 8501
+
+[runner]
+fastReruns = true
+
+[cache]
+# Enable caching for all functions
+allowOutputMutation = true
+# Cache data for 1 hour
+ttl = 3600
+
+[theme]
+primaryColor = "#7792E3"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F2F6"
+textColor = "#262730"
+font = "sans serif" 
